@@ -1,7 +1,7 @@
 baseurl = "http://vexpak.netlify.com/"
 disableLanguages = ["fr"]
 googleAnalytics = ""
-summarylength = "20"
+summarylength = "10"
 theme = "vex-hugo"
 title = "Vex | hugo landing page template"
 [Languages.en]
