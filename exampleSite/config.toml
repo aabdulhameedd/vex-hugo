@@ -9,7 +9,7 @@ contentDir = "content/english"
 copyright = "Copyright 2021-2022. Created By https://abdulhameed.xyz. All rights reserved."
 languageCode = "en-us"
 languageName = "En"
-weight = "2"
+weight = "1"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
