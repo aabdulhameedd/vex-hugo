@@ -1,5 +1,5 @@
 baseurl = "http://vexpak.netlify.com/"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
