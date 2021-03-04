@@ -1,7 +1,7 @@
 baseurl = "http://vexpak.netlify.com/"
 disableLanguages = ["fr"]
 googleAnalytics = ""
-summarylength = "10"
+summarylength = "20"
 theme = "vex-hugo"
 title = "Vex | hugo landing page template"
 [Languages.en]
@@ -9,7 +9,7 @@ contentDir = "content/english"
 copyright = "Copyright 2021-2022. Created By https://abdulhameed.xyz. All rights reserved."
 languageCode = "en-us"
 languageName = "En"
-weight = 1
+weight = "2"
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
